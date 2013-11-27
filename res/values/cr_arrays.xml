@@ -278,9 +278,11 @@
 
     <string-array name="shortcut_action_entries">
         <item>@string/shortcut_action_back</item>
-        <item>@string/shortcut_action_app</item>
 	<item>@string/shortcut_action_expanded_desktop</item>
         <item>@string/shortcut_action_home</item>
+        <item>@string/shortcut_action_recent</item>
+        <item>@string/shortcut_action_menu</item>
+        <item>@string/shortcut_action_app</item>        
         <item>@string/shortcut_action_kill</item>
         <item>@string/shortcut_action_lastapp</item>
         <item>@string/shortcut_action_notifications</item>
@@ -288,7 +290,6 @@
         <item>@string/shortcut_action_ime</item>
         <item>@string/shortcut_action_power_menu</item>
         <item>@string/shortcut_action_qs</item>
-        <item>@string/shortcut_action_recent</item>
         <item>@string/shortcut_action_power</item>
         <item>@string/shortcut_action_screenshot</item>
         <item>@string/shortcut_action_search</item>
@@ -298,9 +299,11 @@
 
     <string-array name="shortcut_action_values" translatable="false">
         <item>**back**</item>
-        <item>**app**</item>
 	<item>**expanded_desktop**</item>
         <item>**home**</item>
+        <item>**recents**</item>
+        <item>**menu**</item>
+        <item>**app**</item>        
         <item>**kill**</item>
         <item>**lastapp**</item>
         <item>**notifications**</item>
@@ -308,7 +311,6 @@
         <item>**ime**</item>
         <item>**power_menu**</item>
         <item>**quicksettings**</item>
-        <item>**recents**</item>
         <item>**power**</item>
         <item>**screenshot**</item>
         <item>**search**</item>
