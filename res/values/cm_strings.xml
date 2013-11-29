@@ -207,6 +207,9 @@
 
     <!-- Safe headset volume restore checkbox -->
     <string name="safe_headset_volume_title">Safe headset volume</string>
+	
+	<!-- TRDS Settings -->
+    <string name="trds_settings_title">Dark UI (TRDS)</string>
 
     <!-- Waiver -->
     <string name="cyanogenmod_waiver_title">Waiver</string>
