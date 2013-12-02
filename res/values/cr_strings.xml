@@ -5,7 +5,7 @@
     <!-- About phone screen, crDroid version -->
 
     <string name="crdroid_version_title">Validus 13 Version</string>
-    <string name="crdroid_version_default">Build 2.0.1</string>
+    <string name="crdroid_version_default">Build 2.1</string>
 
     <!-- General strings -->
     <string name="reset">Reset</string>
