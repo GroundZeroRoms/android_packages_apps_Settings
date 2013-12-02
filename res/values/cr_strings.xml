@@ -3,6 +3,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- About phone screen, crDroid version -->
+
     <string name="crdroid_version_title">Validus 13 Version</string>
     <string name="crdroid_version_default">Build 1.6</string>
 
@@ -566,17 +567,5 @@
     <string name="lock_pattern_size_4">4x4</string>
     <string name="lock_pattern_size_5">5x5</string>
     <string name="lock_pattern_size_6">6x6</string>
-
-    <!-- Volume buttons custom controls -->
-    <string name="hardware_keys_volume_keys_title">Volume buttons</string>
-    <string name="home_wake_title">Home button wake</string>
-    <string name="home_wake_summary">Pressing the home button will wake your device</string>
-    <string name="volume_wake_title">Volume button wake</string>
-    <string name="volume_wake_summary">Pressing a volume button will wake your device</string>
-    <string name="volbtn_music_controls_title">Playback control</string>
-    <string name="volbtn_music_controls_summary">When the screen is off, long pressing the volume keys will seek music tracks</string>
-
-    <!-- Buttons settings header -->
-    <string name="button_settings">Buttons</string>
 
 </resources>
